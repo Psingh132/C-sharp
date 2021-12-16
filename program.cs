@@ -12,6 +12,9 @@ namespace FirstProgram
             }
             else
             Console.WriteLine("Invalid");
+
+            Console.WriteLine("Valid");
         }
+         
     }
 }
