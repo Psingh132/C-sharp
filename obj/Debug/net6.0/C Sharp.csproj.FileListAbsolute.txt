@@ -1,0 +1,15 @@
+E:\C Sharp\bin\Debug\net6.0\C Sharp.exe
+E:\C Sharp\bin\Debug\net6.0\C Sharp.deps.json
+E:\C Sharp\bin\Debug\net6.0\C Sharp.runtimeconfig.json
+E:\C Sharp\bin\Debug\net6.0\C Sharp.dll
+E:\C Sharp\bin\Debug\net6.0\ref\C Sharp.dll
+E:\C Sharp\bin\Debug\net6.0\C Sharp.pdb
+E:\C Sharp\obj\Debug\net6.0\C Sharp.csproj.AssemblyReference.cache
+E:\C Sharp\obj\Debug\net6.0\C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\obj\Debug\net6.0\C Sharp.AssemblyInfoInputs.cache
+E:\C Sharp\obj\Debug\net6.0\C Sharp.AssemblyInfo.cs
+E:\C Sharp\obj\Debug\net6.0\C Sharp.csproj.CoreCompileInputs.cache
+E:\C Sharp\obj\Debug\net6.0\C Sharp.dll
+E:\C Sharp\obj\Debug\net6.0\ref\C Sharp.dll
+E:\C Sharp\obj\Debug\net6.0\C Sharp.pdb
+E:\C Sharp\obj\Debug\net6.0\C Sharp.genruntimeconfig.cache
